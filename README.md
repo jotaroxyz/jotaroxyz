@@ -1,8 +1,6 @@
 ## Hi there 👋
-### About me 👇
 I'm JJ! (or ren if you pref that) Not a professional or whatsoever, I like coding – aka my long-term hobby since I was 14 years old. I love to have fun and create funny things, maybe even work as a programmer one day.
 
-### Work 👇
 I've invested lots of my time into FiveM development which gave me the opportunity to study on languages like: Lua, JS, TS etc.
 
 ## My Skills
